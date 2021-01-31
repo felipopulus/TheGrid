@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Terrain/TerrainDefine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/GlobalManager/SceneScripts/GlobalSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player/PlayerInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player/Beacon/BeaconControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player/Beacon/Pathfinder.cs" Line="1" Column="1" />
+      <File FileName="Assets/GlobalManager/SceneScripts/Heap.cs" Line="1" Column="1" />
+      <File FileName="Assets/Terrain/TerrainNodeList.cs" Line="1" Column="1" />
+      <File FileName="Assets/Terrain/TerrainCreator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

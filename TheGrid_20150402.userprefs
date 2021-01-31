@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GlobalScripts\SceneMouse.cs">
+    <Files>
+      <File FileName="Assets\Beacon\BeaconControl.cs" Line="73" Column="97" />
+      <File FileName="Assets\Camera\CameraControls.cs" Line="64" Column="11" />
+      <File FileName="Assets\GlobalScripts\SceneMouse.cs" Line="15" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

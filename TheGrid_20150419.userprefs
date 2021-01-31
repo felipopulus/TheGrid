@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player/PlayerNetworkSetup.cs">
+    <Files>
+      <File FileName="Assets/Player/Beacon/BeaconControl.cs" Line="30" Column="1" />
+      <File FileName="Assets/Player/PlayerNetworkSetup.cs" Line="63" Column="4" />
+      <File FileName="Assets/Player/NetworkBeaconControler.cs" Line="4" Column="7" />
+      <File FileName="Assets/GlobalManager/SceneScripts/GlobalPlayers.cs" Line="19" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
